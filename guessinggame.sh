@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# THE GUSSING GAME
+# THE GUESSING GAME
 get_file_count() {
   echo $(ls -1A | wc -l)
 }
